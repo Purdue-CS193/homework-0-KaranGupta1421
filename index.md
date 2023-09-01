@@ -22,7 +22,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
 
